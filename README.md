@@ -8,17 +8,20 @@ from a website. The script is currently set up to extract data from headings (`h
 
 To use this project, make sure you have Python and the required libraries installed. You can install `BeautifulSoup` and `requests` using pip:
 
-``` pip install beautifulsoup4 requests ```
+``` pip install beautifulsoup4 requests 
+```
 
 ### Usage
 
 1. Clone the repository:
-``` git clone https://github.com/your-username/your-repo-name.git ```
+``` git clone https://github.com/your-username/your-repo-name.git
+```
 
-2. Open the file and specify the URL and the HTML structure you want to parse. For example:
-``` url = "https://example.com" ```
+3. Open the file and specify the URL and the HTML structure you want to parse. For example:
+``` url = "https://example.com"
+ ```
 
-3. Run the script:
+5. Run the script:
 ```
 Product Name
 $49.99
