@@ -1,2 +1,2 @@
-# Data-Scraping-
-This is a basic web scraping script in Python using BeautifulSoup and requests to extract product names and prices from a given website. This tool can be used to practice web scraping techniques, understand HTML structures, and extract valuable information from websites.
+# Web Scraper for Product Details
+This Python project is a simple web scraper that uses BeautifulSoup to extract product information, such as product titles and prices, from a website. The script is currently set up to extract data from headings (h2) and spans (span) with specific class names.
